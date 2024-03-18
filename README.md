@@ -1,5 +1,9 @@
 # Customer-Churns-Predictive-Model
 
+This study seeks to forecast whether customers will continue subscribing to the telephonic products offered by a company named Telco, or opt to unsubscribe from Telco's products.
+
+The Analysis to build an adequate customers retention program.
+
 ## Random Forest Model for Customer Churn Prediction
 This repository contains code for building a Random Forest model to predict customer churn. Customer churn, also known as customer attrition, refers to the phenomenon where customers stop doing business with a company Called Telco. Predicting churn can help businesses identify at-risk customers and take proactive measures to retain them.
 
