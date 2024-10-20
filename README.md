@@ -23,7 +23,7 @@ After identifying the need for improving model performance, hyperparameters tuni
 - Pandas
 - Scikit-learn
 
-## Linear Regression Model for Customer Churn Prediction
+## Logistic Regression Model for Customer Churn Prediction
 
 This repository contains code for building a Linear Regression model to predict customer churn. Customer churn, also known as customer attrition, refers to the phenomenon where customers stop doing business with a company called Telco. Predicting churn can help businesses identify at-risk customers and take proactive measures to retain them.
 
