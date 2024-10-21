@@ -25,10 +25,10 @@ After identifying the need for improving model performance, hyperparameters tuni
 
 ## Logistic Regression Model for Customer Churn Prediction
 
-This repository contains code for building a Linear Regression model to predict customer churn. Customer churn, also known as customer attrition, refers to the phenomenon where customers stop doing business with a company called Telco. Predicting churn can help businesses identify at-risk customers and take proactive measures to retain them.
+This repository contains code for building a Logistic Regression model to predict customer churn. Customer churn, also known as customer attrition, refers to the phenomenon where customers stop doing business with a company called Telco. Predicting churn can help businesses identify at-risk customers and take proactive measures to retain them.
 
 ### Before Hyperparameters Tuning
-The initial version of the Linear Regression model was built using default settings. The code reads the dataset from a CSV file, preprocesses the data, and trains a Linear Regression model. The model is evaluated based on accuracy and classification report.
+The initial version of the Logistic Regression model was built using default settings. The code reads the dataset from a CSV file, preprocesses the data, and trains a Logistic Regression model. The model is evaluated based on accuracy and classification report.
 
 #### Requirements
 - Python 3.x
